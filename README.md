@@ -1,2 +1,2 @@
 # datasciencecoursera
-Exercise for data science course using R
+Exercises for data science course using R
